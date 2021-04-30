@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 
-class Slider extends React.Component {
+class Slider extends Component {
     render() {
         return (
             <div id="bpm-slider">
